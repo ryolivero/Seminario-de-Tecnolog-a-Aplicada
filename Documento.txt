@@ -1,0 +1,131 @@
+<!DOCTYPE <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>SEMINARIO DE TECNOLOGIA APLICADA</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+
+    
+ <center><img src="C:\Users\ROC\Desktop\STA\img STA\html5.jpg" alt="imagen de html 5" /></center>
+ <center><h1>HTML5</h1></center>
+<p>
+    HTML5 es un lenguaje markup (de hecho, las siglas de HTML significan Hyper Text Markup Language) usado para estructurar y presentar el contenido para la web. 
+    Es uno de los aspectos fundamentales para el funcionamiento de los sitios, pero no es el primero. 
+    Es de hecho la quinta revisión del estándar que fue creado en 1990. A fines del año pasado, la W3C la recomendó para transformarse en el estándar a ser usado en el desarrollo de proyectos venideros. 
+    Por así decirlo, qué es HTML5 está relacionado también con la entrada en decadencia del viejo estándar HTML 4, que se combinaba con otros lenguajes para producir los sitios que podemos ver hoy en día. 
+    Con HTML5, tenemos otras posibilidades para explotar usando menos recursos. Con HTML5, también entra en desuso el formato XHTML, dado que ya no sería necesaria su implementación.
+</p>
+</br>
+<p>
+    HTML4 fue “declarado” el lenguaje oficial de la web en el año 2000, y tomó una década para comenzar a implementar el desarrollo de su nueva revisión. 
+    Esta nueva generación de HTML, se dice, pronto dominará el desarrollo en internet, pero introduce algunos cambios importantes que veremos dentro de algunas líneas. 
+    Por ende, para los desarrolladores de sitios web es importante conocer las ventajas de HTML5, considerando que algunas entidades se están moviendo en esta dirección. 
+    No solamente Google con su navegador Chrome, hace unos años, sino también Adobe hace unos meses, que removió el soporte de Flash para Android para dar paso a la llegada de HTML5.
+</p>
+</br>
+<p>
+    Volviendo a qué es HTML5. Se trata de un sistema para formatear el layout de nuestras páginas, así como hacer algunos ajustes a su aspecto. 
+    Con HTML5, los navegadores como Firefox, Chrome, Explorer, Safari y más pueden saber cómo mostrar una determinada página web, saber dónde están los elementos, dónde poner las imágenes, dónde ubicar el texto. 
+    En este sentido, el HTML5 no se diferencia demasiado de su predecesor, un lenguaje del cual hablamos hace algunos meses en nuestra guía básica de HTML. 
+    La diferencia principal, sin embargo, es el nivel de sofisticación del código que podremos construir usando HTML5.
+</p>
+</br>
+<p>
+    En términos de Markup, el HTML5 introduce algunos elementos que hacen que se aggiorne a los tiempos que corren. 
+    Así, muchas de las novedades están relacionadas con la forma de construir websites que se tiene en la actualidad. 
+    Una de las más importantes novedades está relacionada con la inserción de multimedia en los sitios web, que ahora contarán con etiquetas HTML especiales para poder ser incluidos. 
+    Por otro lado, algunos aspectos de diseño también son incluidos en el lenguaje, así como también algunos detalles de navegación. Veremos todo esto en algunas líneas.
+</p>
+</br>
+<center><img src="C:\Users\ROC\Desktop\STA\img STA\CSS3.png" alt="imagen de CSS3" /></center>
+<center><h1>CSS3</h1></center>
+<p>
+        El nombre hojas de estilo en cascada viene del inglés Cascading Style Sheets, del que toma sus siglas. CSS es un lenguaje usado para definir la presentación de un documento estructurado escrito en HTML o XML (y por extensión en XHTML). 
+        El W3C(World Wide Web Consortium) es el encargado de formular la especificación de las hojas de estilo que servirán de estándar para los agentes de usuario o navegadores.
+        La idea que se encuentra detrás del desarrollo de CSS es separar la estructura de un documento de su presentación. 
+        La información de estilo puede ser adjuntada como un documento separado o en el mismo documento HTML. 
+        ambién entra en desuso el formato XHTML, dado que ya no sería necesaria su implementación.
+</p>
+</br>
+<p>
+        En este último caso podrían definirse estilos generales en la cabecera del documento o en cada etiqueta particular mediante el atributo "style".
+
+</p>
+<br>
+<p>
+        El CSS sirve para definir la estética de un sitio web en un documento externo y eso mismo permite que modificando ese documento (la hoja CSS) 
+        podamos cambiar la estética entera de un sitio web, el mismo sitio web puede variar totalmente de estética cambiando solo la CSS, sin tocar para nada los documentos HTML o jsp o asp que lo componen. 
+
+</p>
+<br>
+<p>
+        CSS es un lenguaje utilizado para dar estética a un documento HTML (colores, tamaños de las fuentes, tamaños de elemento, con css podemos establecer diferentes reglas que indicarán como debe presentarse un documento.
+         Podemos indicar propiedades como el color, el tamaño de la letra, el tipo de letra, si es negrita, si es itálica, también se puede dar forma a otras cosas que no sean letras, como colores de fondo de una pagina, tamaños de un elemento (por ejemplo el alto y el ancho de una tabla. 
+
+</p>
+<br>
+<center><img src="C:\Users\ROC\Desktop\STA\img STA\javascript.png" alt="imagen de CSS3" /></center>
+<center><h1>JavaScript</h1></center>
+<p>
+        JavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,3? basado en prototipos, imperativo, débilmente tipado y dinámico.
+
+</p>
+</br>
+<p>
+        Se utiliza principalmente en su forma del lado del cliente (client-side), implementado como parte de un navegador web permitiendo mejoras en la interfaz de usuario y páginas web dinámicas4? aunque existe una forma de JavaScript del lado del servidor (Server-side JavaScript o SSJS). 
+        Su uso en aplicaciones externas a la web, por ejemplo en documentos PDF, aplicaciones de escritorio (mayoritariamente widgets) es también significativo.
+
+</p>
+<br>
+<p>
+        Desde el 2012, todos los navegadores modernos soportan completamente ECMAScript 5.1, una versión de javascript. Los navegadores más antiguos soportan por lo menos ECMAScript 3. La sexta edición se liberó en julio del 2015.5. JavaScript se diseñó con una sintaxis similar a C, 
+        aunque adopta nombres y convenciones del lenguaje de programación Java. Sin embargo, Java y JavaScript tienen semánticas y propósitos diferentes. Todos los navegadores modernos interpretan el código JavaScript integrado en las páginas web. Para interactuar con una página web se provee 
+        al lenguaje JavaScript de una implementación del Document Object Model (DOM).
+
+</p>
+<br>
+<p>
+        Tradicionalmente se venía utilizando en páginas web HTML para realizar operaciones y únicamente en el marco de la aplicación cliente, sin acceso a funciones del servidor. Actualmente es ampliamente utilizado para enviar y recibir información del servidor junto con ayuda de otras tecnologías como AJAX. 
+        JavaScript se interpreta en el agente de usuario al mismo tiempo que las sentencias van descargándose junto con el código HTML.
+
+</p>
+<br>
+
+<center><img src="C:\Users\ROC\Desktop\STA\img STA\progresive web.png" alt="imagen de CSS3" /></center>
+<center><h1>PROGRESIVE WEB</h1></center>
+<p>
+        Progressive web apps (o aplicaciones web progresivas), es un término que se da a una nueva generación de aplicaciones que incrementan su funcionalidad, conforme las capacidades del dispositivo en el que se ejecutan, incrementan, de ahí la palabra progresiva. La siguiente parte del nombre web, 
+        hace referencia a que se construyen utilizando estándares de desarrollo web, algunos ya conocidos como HTML, CSS y javaScript; y una nueva generación de APIs de javaScript. La parte final app es porque las Progressive Web Apps se comportan como aplicaciones web nativas, pero usan tecnologías web.
+        En términos muy simplistas, son páginas web que se comportan como aplicaciones nativas. Es un oración muy simple, pero también muy profunda. Las apps nativas (iOs, Android por ejemplo), históricamente han tenido una serie de ventajas sobre las páginas web, ¿como cuáles? Almacenamiento local, 
+        ejecutarse offline, notificaciones push, performance, acceso a hardware, acceso al homescreen del dispositivo, entre otros. Con el paso del tiempo, la brecha entre las web apps y las apps nativas, se ha ido reduciendo. 
+
+
+</p>
+</br>
+<p>
+        Hace aproximadamente 6 años, HTML5 comenzó a tomar forma, como el concepto que constituía nuevas etiquetas, CSS3 y nuevas APIs de javaScript, cuyo objetivo era hacer las páginas web, más parecidas a las aplicaciones nativas. Ahí, conocimos a localStorage y webRTC, tuvimos acceso al hardware, 
+        desde el GPS, hasta la cámara, pasando claro por el micrófono y los altavoces; también nos presentaron nuevos eventos touch, drag&drop, web workers, web sockets que no eran hardware precisamente, pero que buscaban acercar la experiencia de las interfaces web, a la de las apps nativas.
+
+
+</p>
+<br>
+<p>
+        Desde el 2012, todos los navegadores modernos soportan completamente ECMAScript 5.1, una versión de javascript. Los navegadores más antiguos soportan por lo menos ECMAScript 3. La sexta edición se liberó en julio del 2015.5. JavaScript se diseñó con una sintaxis similar a C, 
+        aunque adopta nombres y convenciones del lenguaje de programación Java. Sin embargo, Java y JavaScript tienen semánticas y propósitos diferentes. Todos los navegadores modernos interpretan el código JavaScript integrado en las páginas web. Para interactuar con una página web se provee 
+        al lenguaje JavaScript de una implementación del Document Object Model (DOM).
+
+</p>
+<br>
+<p>
+        Tradicionalmente se venía utilizando en páginas web HTML para realizar operaciones y únicamente en el marco de la aplicación cliente, sin acceso a funciones del servidor. Actualmente es ampliamente utilizado para enviar y recibir información del servidor junto con ayuda de otras tecnologías como AJAX. 
+        JavaScript se interpreta en el agente de usuario al mismo tiempo que las sentencias van descargándose junto con el código HTML.
+
+</p>
+<br>
+</body>
+</html>
